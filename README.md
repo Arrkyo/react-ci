@@ -1,2 +1,2 @@
 # react-ci
-cours CI - CA EPSI
+cours CI - CA EPSI intro
